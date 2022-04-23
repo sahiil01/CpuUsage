@@ -1,0 +1,10 @@
+built on a virtual environment.
+
+SendData.py is the application calling post and get requests 
+
+requires 
+django 
+djangorestframework 
+requests 
+psutil 
+matplotlib 
